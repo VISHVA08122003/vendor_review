@@ -1,0 +1,14 @@
+.v{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    /* color: blueviolet; */
+    color: rgb(255,0,0);
+}
+.mb{
+   padding-top: 20px;
+}
+.sl{
+    padding-top: 20px;
+    padding-left: 60px;
+}

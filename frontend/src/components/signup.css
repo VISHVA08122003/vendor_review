@@ -1,0 +1,43 @@
+.a{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    border: 5px solid white;
+    /* border-style: dotted dashed solid double; */
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+.b{
+    padding-top: 15px;
+
+}
+.f{
+    color: aliceblue;
+}
+.h{
+    padding-top: 10px;
+}
+.z{
+    color:antiquewhite;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.bg{
+    padding-bottom: 80px;
+
+}
+.ed{
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.ft{
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+
+  

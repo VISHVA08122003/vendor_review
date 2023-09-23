@@ -1,0 +1,20 @@
+.glo{
+    background-color: white;
+    width: 40%;
+    margin-top: 180px;
+    margin-left: 400px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    color:  rgb(255,0,0);
+
+}
+.ms{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.block{
+    color: black;
+    padding: 10px 10px 10px 10px;
+}
